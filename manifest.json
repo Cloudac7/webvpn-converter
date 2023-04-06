@@ -1,7 +1,7 @@
 {
-    "name": "WebVpn-Converter",
+    "name": "WebVpn Converter",
     "version": "1.0.0",
-    "description": "可以通过WebVPN访问网页",
+    "description": "将当前浏览页面转换为WebVPN网址以通过WebVPN访问",
     "manifest_version": 3,
     "permissions": [
         "contextMenus",

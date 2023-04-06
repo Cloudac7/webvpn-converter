@@ -1,7 +1,7 @@
 import { convert } from "./convert.js";
 
 chrome.contextMenus.create({
-    "title": '转换并在新标签页打开',
+    "title": '用WebVPN在新标签页打开',
     "id": 'convert-and-open',
 });
 
